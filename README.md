@@ -20,6 +20,7 @@ $GOPATH/bin/govenv -dest <your-env-name> -go-version 1.6 # virtualenv initialize
 ```
 
 ## Warning
-This a development version with few bugs inside and functionalities are not fully implemented
+This a development version with few bugs inside and functionalities are not fully implemented.
+
 This is my first time with the go language so keep calm and let me increase my knowledge of golang (dirty source code)
 Have Fun ;)
